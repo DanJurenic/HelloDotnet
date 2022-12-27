@@ -1,0 +1,15 @@
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\bin\Debug\net6.0\HelloDotnet.exe
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\bin\Debug\net6.0\HelloDotnet.deps.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\bin\Debug\net6.0\HelloDotnet.runtimeconfig.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\bin\Debug\net6.0\HelloDotnet.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\bin\Debug\net6.0\HelloDotnet.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\HelloDotnet.csproj.AssemblyReference.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\HelloDotnet.AssemblyInfoInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\HelloDotnet.AssemblyInfo.cs
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\HelloDotnet.csproj.CoreCompileInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\HelloDotnet.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\refint\HelloDotnet.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\HelloDotnet.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\HelloDotnet.genruntimeconfig.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\obj\Debug\net6.0\ref\HelloDotnet.dll

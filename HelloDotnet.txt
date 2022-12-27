@@ -1,0 +1,18 @@
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp>dotnet --version
+6.0.403
+
+E:\Dan\Coding_Dojo_Coursework\C_sharp>dotnet new console -o HelloDotnet
+The template "Console App" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\HelloDotnet.csproj...
+  Determining projects to restore...
+  Restored E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet\HelloDotnet.csproj (in 55 ms).
+Restore succeeded.
+
+E:\Dan\Coding_Dojo_Coursework\C_sharp>cd HelloDotnet
+
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet>
+
+E:\Dan\Coding_Dojo_Coursework\C_sharp\HelloDotnet>dotnet run
+Hello, World!
